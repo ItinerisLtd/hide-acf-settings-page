@@ -3,7 +3,7 @@
  * Plugin Name:     Hide ACF Settings Page
  * Plugin URI:      https://github.com/itinerisltd/hide-acf-settings-page
  * Description:     Hide ACF settings page on non-development enviroments.
- * Version:         0.1.0
+ * Version:         0.2.0
  * Author:          Itineris Limited
  * Author URI:      https://www.itineris.co.uk/
  * Text Domain:     hide-acf-settings-page
